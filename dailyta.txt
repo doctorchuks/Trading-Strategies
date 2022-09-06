@@ -1,0 +1,42 @@
+this is my daily ta document
+to avoid me writing and cancelling in my strategy journal document
+
+Daily TA 
+
+GOAL
+The goal of daily ta is to help me identify the markets behavior, place what has happened into perspective, tell where the market is from there, place the previous days
+move into the already made picture and also to structure my actions, defining what i would wait for and what i would do if the market went either way
+
+PROCEDURE
+
+
+TIMEFRAMES AND ROLES 
+1D - To get historical levels, these would still be refined on the 1H chart to fit more recent data. Refreshed weekly
+4H - to get the major trend - character of the past 3 life weeks on the 4H chart: to be refreshed every weekend as the week prints 30 new 4h bars
+			      any major trendlines should be drawn on the 4H 
+			      levels should not be drawn as youd be drawing levels that would be too wide and still need refinement on lower tf
+1H - to get the minor trend - character of the past 3 trading days(72 HOURLY BARS) on the 1H chart
+			      key levels, smaller trend lines, support and resistance
+			      chart patterns
+			      all levels drawn are to be labelled on the right hand top of what they represent
+			      old levels no longer in play are to be made more transparent ad delabelled to be deleted weekends
+15M - to get smaller patterns, candlesticks, 
+			     we draw obvious value areas here: gaps, vol profile gaps, round nos, fib r levels, levels with multiple wick rejections, 
+			     we also write a short note describing the market structure so far 
+			     we deduce local bullish strength by 
+				- length of bull impulses
+				- freq of bull trend bars 
+				- respect of bullish support structures
+			     we deduce local bearish strength by 
+				- length of bear impulses
+				- freq of bear trend bars 
+				- respect of bearish resistance structures
+if the move in any side is a direct response to moving news, but doesnt line up with the minor trend, thats a fake move
+if the trend is supported by direct reactions to news, we trade the trend till it climaxes
+
+either way, our always in direction is the minor trend 
+
+NOTE STRUCTURE
+
+LASTING AND TEMPORARY STRUCTURES
+

@@ -1,0 +1,38 @@
+types of ranges 
+
+regular consolidations
+higher time frame consolidations
+converging consolidations
+diverging consolidations
+one sided consolidations
+Weak breakouts of ranges
+
+
+Trading Horizontally Bound Consolidations
+When i see a HB Consolidation, I enclose the range in a rectangle with its upper and lower boundaries at the range edge.
+The boundaries would be the outermost levels within the range that were tested the most, any outliers can be viewed as breakouts.
+I select the midpoint of the range as that is the most respected level within an HB Range
+
+To trade 
+Conditions
+I do not enter trades, not even late entries when price has gone far from the range extreme, deeper into the range as this would affect Reward:Risk
+I dont view ranges with the perspective of always looking for a breakout, I trade what I see 
+
+
+Entries
+I set price alerts at the range extremes and when price gets there I only enter on sign of weakness and reversal(define later)
+
+
+
+Stops
+I set my stops few ticks above the highest breakout(for a short), or lowest breakout(for a long) as a move beyond these prices breaks market structure
+
+
+Targets
+
+
+R:R
+
+
+Other Specifics
+s
