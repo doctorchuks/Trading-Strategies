@@ -1,0 +1,14 @@
+PRE-TRADE
+ alerts
+cautions
+	cah followed by cbl is negated
+	retest thst causes a choch should not be traded
+	dont rush entry
+journal 1
+DURING THE TRADE 
+move sl alertt
+partials alert if any
+stack alerts if any
+check your trade rr htf after open
+POST-TRADE
+journal 2
